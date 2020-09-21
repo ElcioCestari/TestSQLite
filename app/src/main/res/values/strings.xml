@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test SQLite</string>
+    <string name="banco_name">banco_teste1</string>
 </resources>
